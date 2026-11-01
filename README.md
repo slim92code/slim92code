@@ -1,6 +1,6 @@
 # Stevan Mrkšić
 
-SOC analyst in training. BTL1 certified. Self-taught, career-changer background.
+SOC analyst in training. Self-taught, career-changer background.
 
 Focused on endpoint detection, log analysis, and MITRE ATT&CK-based triage.
 
