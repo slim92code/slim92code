@@ -1,16 +1,21 @@
-## Hi there 👋
+# Stevan Mrkšić
 
-<!--
-**slim92code/slim92code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SOC analyst in training. BTL1 certified. Self-taught, career-changer background.
 
-Here are some ideas to get you started:
+Focused on endpoint detection, log analysis, and MITRE ATT&CK-based triage.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Portfolio
+
+**[letsdefend-soc-reports](https://github.com/slim92code/letsdefend-soc-reports)**
+10 closed-case incident reports from LetsDefend — phishing, credential theft, supply-chain APT, DNS exfiltration, cloud IAM. Each report includes defanged IOCs, kill-chain timeline, and MITRE ATT&CK mapping with sub-technique corrections where the platform mapping was incomplete.
+
+**[purple-team-lab](https://github.com/slim92code/purple-team-lab)**
+Self-built Active Directory home lab. Full kill chain run against the domain and traced through Splunk, Zeek/Suricata and Wazuh. Detection gaps found, fixed and re-tested with Sigma rules.
+
+---
+
+## Stack
+
+`Splunk` `Wazuh` `Suricata` `Zeek` `Sysmon` `Sigma` `Windows Event Logs` `Wireshark` `VirusTotal` `MITRE ATT&CK`
